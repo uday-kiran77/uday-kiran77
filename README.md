@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/udaykiran_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaykiran_77" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/udaykiran77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udaykiran77" height="30" width="40" /></a>
-<a href="https://instagram.com/uday_kiran77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday_kiran77" height="30" width="40" /></a>
+<a href="https://instagram.com/uday_kiran77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday_kiran77" height="30" width="40" /></a><a href="https://twitter.com/udaykiran_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaykiran_77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I Use:</h3>
